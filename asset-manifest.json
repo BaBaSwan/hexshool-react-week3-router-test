@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hexshool-react-week3-router-test/static/css/main.073c9b0a.css",
-    "main.js": "/hexshool-react-week3-router-test/static/js/main.6dd96d40.js",
+    "main.js": "/hexshool-react-week3-router-test/static/js/main.4502e5c9.js",
     "static/js/787.28cb0dcd.chunk.js": "/hexshool-react-week3-router-test/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/hexshool-react-week3-router-test/index.html",
     "main.073c9b0a.css.map": "/hexshool-react-week3-router-test/static/css/main.073c9b0a.css.map",
-    "main.6dd96d40.js.map": "/hexshool-react-week3-router-test/static/js/main.6dd96d40.js.map",
+    "main.4502e5c9.js.map": "/hexshool-react-week3-router-test/static/js/main.4502e5c9.js.map",
     "787.28cb0dcd.chunk.js.map": "/hexshool-react-week3-router-test/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6dd96d40.js"
+    "static/js/main.4502e5c9.js"
   ]
 }
